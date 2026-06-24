@@ -1,4 +1,4 @@
-url: "jacksydney.ca" # the base hostname & protocol for your site, e.g. http://example.com
+url: "jacksydney.ca"
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "Jack Sydney Schwartz" # the name of your site, e.g. ACME Corp.
+title: "Jack Sydney Schwartz"
 description: "Astrodynamics PhD Student at Princeton University"
